@@ -1,5 +1,9 @@
 # Source code for *A model for structured information representation in neural networks of the brain*
 
+## Download link
+
+https://github.com/IGITUGraz/structured_information_representation/archive/paper_final.zip
+
 ## Requirements
 
 * Python >= 3.5
