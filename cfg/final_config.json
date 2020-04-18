@@ -1,0 +1,41 @@
+{
+    "__meta__": {
+        "name": "goD_a3__007",
+        "written_at": "2020-02-24 10:08:36"
+    },
+    "config_c": {
+        "A_minus_SE": 0.44844316,
+        "alpha_SE": 0.0,
+        "eta_SE": 0.00605105,
+        "tau_minus": 42.90537971,
+        "tau_plus_SE": 28.35256916,
+        "w_SE_high": 0.3844604,
+        "w_SE_low": 0.19214029,
+        "w_SE_max": 0.86900343
+    },
+    "config_v": {
+        "A_minus_EE": 0.51823208,
+        "A_minus_SE": 0.28319782,
+        "alpha_EE": -1.0,
+        "alpha_SE": 0.0,
+        "eta_EE": 0.0054135,
+        "eta_SE": 0.00312222,
+        "q_sfa": 0.0002,
+        "tau_minus": 45.42334068,
+        "tau_plus_EE": 33.10643932,
+        "tau_plus_SE": 19.61620613,
+        "w_EE_high": 0.91009721,
+        "w_EE_low": 0.42054783,
+        "w_EE_max": 1.04060619,
+        "w_SE_high": 0.85674204,
+        "w_SE_low": 0.48376855,
+        "w_SE_max": 1.24902448
+    },
+    "recall_cfg": {
+        "inhibit_V": true,
+        "t_recall_1": 50.0,
+        "t_recall_2": 150.0,
+        "t_store": 200.0
+    },
+    "variant": "big_V"
+}
